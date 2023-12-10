@@ -5,7 +5,7 @@
 
 - 🔰 I'm from Ibiúna/SP, Brazil
 - 🧠 Internet Systems student at Fatec São Roque
-- 🏦 Currently  <i> Open to Work.</i>
+- 🏦 Currently a cashier at <i> Polo Wear.</i>
 #### How to contact me:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/isaias-batista)
 [<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/@me/isaiaax)
